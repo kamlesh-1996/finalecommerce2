@@ -1,0 +1,16 @@
+.pascalsystem-content .ajaxemptycart, .pascalsystem-content .cart {
+	width:auto;
+	padding:5px 0px;
+	background:#ffffff;
+	border:8px solid #29d1c2;
+	max-width:700px;		border-radius:7px;	-moz-border-radius:7px;	-webkit-border-radius:7px;
+}
+.pascalsystem-content .cart .btn-continue {
+	margin-right:5px;
+}
+.pascalsystem-content .cart .btn-viewcart {
+	float:left;
+}
+.pascalsystem-content .product-view-layer {
+	width:380px;
+}
